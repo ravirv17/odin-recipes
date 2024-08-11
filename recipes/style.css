@@ -1,0 +1,17 @@
+*{
+    justify-content: center;
+}
+h1{
+    color:brown;
+    font-weight: 950;
+}
+h3{
+    color:blue;
+}
+ul, ol{
+    list-style-position: inside;
+}
+img{
+    border: 5px solid black;
+    border-radius: 10px;
+}
